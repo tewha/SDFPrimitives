@@ -18,7 +18,7 @@ All code in here is property of its respective author. I am not claiming it. I a
 
 ## Credits ##
 
-- `NSObject+sdfcast` by [Kevin Ballard][ballard] via [Stack Overflow][cast].
+- `NSObject+sdfcast`. `safeCast:` by [Kevin Ballard][ballard] via [Stack Overflow][safecast].
 
 [ballard]: https://twitter.com/eridius
-[cast]: http://stackoverflow.com/questions/10557756/objective-c-dynamic-cast/12171194#12171194
+[safecast]: http://stackoverflow.com/questions/10557756/objective-c-dynamic-cast/12171194#12171194
