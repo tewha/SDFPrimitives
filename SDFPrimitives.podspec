@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SDFPrimitives"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Basic casts, etc."
   s.homepage     = "https://github.com/tewha/SDFPrimitives"
   s.license      =  {
